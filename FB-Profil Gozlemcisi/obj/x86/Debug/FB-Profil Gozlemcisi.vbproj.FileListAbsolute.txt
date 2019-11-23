@@ -1,0 +1,12 @@
+F:\Documents\Visual Studio 2010\FB-Profil Gozlem\FB-Profil Gozlemcisi\FB-Profil Gozlemcisi\bin\Debug\FB-Profil Gozlemcisi.exe
+F:\Documents\Visual Studio 2010\FB-Profil Gozlem\FB-Profil Gozlemcisi\FB-Profil Gozlemcisi\bin\Debug\FB-Profil Gozlemcisi.pdb
+F:\Documents\Visual Studio 2010\FB-Profil Gozlem\FB-Profil Gozlemcisi\FB-Profil Gozlemcisi\bin\Debug\FB-Profil Gozlemcisi.xml
+F:\Documents\Visual Studio 2010\FB-Profil Gozlem\FB-Profil Gozlemcisi\FB-Profil Gozlemcisi\obj\x86\Debug\FB_Profil_Gozlemcisi.Form1.resources
+F:\Documents\Visual Studio 2010\FB-Profil Gozlem\FB-Profil Gozlemcisi\FB-Profil Gozlemcisi\obj\x86\Debug\FB_Profil_Gozlemcisi.Resources.resources
+F:\Documents\Visual Studio 2010\FB-Profil Gozlem\FB-Profil Gozlemcisi\FB-Profil Gozlemcisi\obj\x86\Debug\FB-Profil Gozlemcisi.vbproj.GenerateResource.Cache
+F:\Documents\Visual Studio 2010\FB-Profil Gozlem\FB-Profil Gozlemcisi\FB-Profil Gozlemcisi\obj\x86\Debug\FB-Profil Gozlemcisi.exe
+F:\Documents\Visual Studio 2010\FB-Profil Gozlem\FB-Profil Gozlemcisi\FB-Profil Gozlemcisi\obj\x86\Debug\FB-Profil Gozlemcisi.xml
+F:\Documents\Visual Studio 2010\FB-Profil Gozlem\FB-Profil Gozlemcisi\FB-Profil Gozlemcisi\obj\x86\Debug\FB-Profil Gozlemcisi.pdb
+D:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\FB-Profil Gozlemcisi\FB-Profil Gozlemcisi\obj\x86\Debug\FB-Profil Gozlemcisi.exe
+D:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\FB-Profil Gozlemcisi\FB-Profil Gozlemcisi\obj\x86\Debug\FB-Profil Gozlemcisi.xml
+D:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\FB-Profil Gozlemcisi\FB-Profil Gozlemcisi\obj\x86\Debug\FB-Profil Gozlemcisi.pdb
